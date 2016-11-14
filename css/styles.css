@@ -22,16 +22,17 @@ body {
 /* YOUR STYLES */
 
 .cd-header h1 {
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 h1 {
     font-size: 1.5em;
-    padding-bottom: .25em;
+    padding-bottom: .15em;
 }
 
 h3 {
     font-size: 1.2em;
+    padding-bottom: .2em;
 }
 
 .cd-filter-block h4 {
@@ -52,6 +53,7 @@ h3 {
     background: white;
     padding: 1em;
 }
+
 
 .cd-filter::before {
     background-color: black;
