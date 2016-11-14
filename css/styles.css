@@ -3,6 +3,7 @@
 body {
     font-family: 'Roboto', sans-serif;
 background: #6d6e71;
+    text-align: left;
 }
 
 
@@ -23,18 +24,26 @@ background: #6d6e71;
 
 /* YOUR STYLES */
 
+.course-num {
+    font-size: .7em;
+}
+
 .cd-header h1 {
     font-size: 1.5em;
 }
 
 h1 {
     font-size: 1.5em;
-    padding-bottom: .15em;
+    padding-bottom: .2em;
 }
 
 h3 {
-    font-size: 1.2em;
+    font-size: 1em;
     padding-bottom: .2em;
+}
+
+p {
+    font-size: .9em;
 }
 
 .cd-filter-block h4 {
