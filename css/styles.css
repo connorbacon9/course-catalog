@@ -2,7 +2,9 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+background: #6d6e71;
 }
+
 
 /* Grid View */
 .grid li.mix {
